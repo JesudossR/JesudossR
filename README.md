@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jesudoss R</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jesudossr&label=Profile%20views&color=0e75b6&style=flat" alt="jesudossr" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=jesudossr&label=Profile%20views&color=0e75b6&style=flat" alt="jesudossr" /> </p>-->
 
 
 - 🌱 I’m currently learning **React.js**
